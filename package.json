@@ -1,0 +1,38 @@
+{
+  "name": "reem-flow",
+  "version": "0.0.1",
+  "description": "Middleware flow controls for Reem",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "test-spec": "mocha --reporter spec"
+  },
+  "keywords": [
+    "reem",
+    "flow",
+    "filter",
+    "within",
+    "toggle",
+    "cond",
+    "plugins",
+    "reem-plugin"
+  ],
+  "author": "Chris Andrejewski",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^1.20.1",
+    "reem": "0.0.1"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andrejewski/reem-flow.git"
+  },
+  "bugs": {
+    "url": "https://github.com/andrejewski/reem-flow/issues"
+  },
+  "homepage": "https://github.com/andrejewski/reem-flow"
+}
