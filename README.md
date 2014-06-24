@@ -155,3 +155,9 @@ If you have an issue or find a bug open an issue and I will see what we can do. 
 
 Until `reem` and `reem-flow` hit v1, I would like to keep backwards compatibility with the v0.0.1, treating it like v1. When the conditions are met for v1, we can cut away the cruft of v0.
 
+```bash
+# running tests
+npm run test
+npm run test-spec
+```
+
